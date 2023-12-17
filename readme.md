@@ -1,1 +1,1 @@
-
+RCS galadarbs - Rihards Rudzītis
